@@ -1,0 +1,1 @@
+Hi, I've created this repo for learning google ADK.
